@@ -9,3 +9,13 @@ Slimmed down code, identical presentation
 Added alt attributes for accessibility and seo
 
 Added A descriptive concise title
+
+Access the homework at
+https://lazinglion.github.io/homework-1/
+
+
+
+
+
+
+Project for UCB
