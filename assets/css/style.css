@@ -75,6 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
 /* slim contents! */
 /* moved color font to main selector */
 .benefits {
@@ -88,6 +89,7 @@ p {
     background-color: #2589bd;
     color: #ffffff;
 }
+
 /* merged benefits selectors */
 .benefit-section {
     margin-bottom: 32px;
