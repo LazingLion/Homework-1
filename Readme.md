@@ -12,9 +12,9 @@ Added A descriptive concise title
 
 Access the homework at
 **Github Repository:**
-https://VendettiStudios.github.io/homework-1/
+https://github.com/VendettiStudios/homework1-HTML-CSS-UCB/
 **Live Demo**
-https://github.com/VendettiStudios/homework-1
+https://vendettistudios.github.io/homework1-HTML-CSS-UCB/
 
 <img src="./assets/images/01-html-css-git-homework-demo.png" alt="homework demo" />
 
