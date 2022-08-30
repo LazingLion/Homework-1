@@ -7,9 +7,10 @@
 body {
     background-color: #d9dcd6;
 }
-
 /*Header*/
 .header {
+    display:flex;
+    flex-wrap:nowrap;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -38,7 +39,7 @@ body {
 }
 
 .header div ul li {
-    display: inline-block;
+    display: inline-flex;
     margin-left: 25px;
 }
 
@@ -129,6 +130,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 
 .footer {
