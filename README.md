@@ -6,8 +6,8 @@
 
 
 **Github Repository:**
-https://github.com/VendettiStudios/My-First-HTML
+https://github.com/VendettiStudios/My-First-HTML-Refactor
 **Live Demo:**
-https://vendettistudios.github.io/My-First-HTML/
+https://vendettistudios.github.io/My-First-HTML-Refactor/
 
 ![SS](./assets/images/ss.png)
